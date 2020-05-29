@@ -7,11 +7,7 @@ In this final project, we have been given the scenario of Microsoft expressing i
 
 ## Questions that we aim to answer during this project:
 
-1)	Is it worth going into the film industry at this moment?
-2)	Is there a correlation between production budget and gross, total gross, or worldwide gross?
-3)	Which season has the highest average gross?
-4)	Does length of movie runtime affect average gross?
-5)	Does genre(s) affect average gross?
+![ScreenShot](Screen Shot.png)
 
 ## Process:
 
