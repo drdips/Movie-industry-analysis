@@ -7,7 +7,7 @@ In this final project, we have been given the scenario of Microsoft expressing i
 
 ## Questions that we aim to answer during this project
 
-![ScreenShot](screenshot.png)
+![Pyramid](/data/Pictures/pyramid.png)
 
 ## Process
 
