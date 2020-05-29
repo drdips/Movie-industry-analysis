@@ -18,18 +18,18 @@ In this final project, we have been given the scenario of Microsoft expressing i
 
 ## Libraries
 
-   Data Collection:
-        - Requests
-        - Beautiful Soup
-        - Pandas
-    
-   Data Cleaning and Visualization:
-        - Matplotlib
-        - Seaborn
-        - Pandas
+* Data Collection:
+  * Requests
+  * Beautiful Soup
+  * Pandas
+  
+* Data Cleaning and Visualization:
+  * Matplotlib
+  * Seaborn
+  * Pandas
 
 
 ## Findings and Suggestions
 
-    Even though movies were not doing well for 2019, we believe this is reason to investigate further what ways to improve movies to generate high gross. There was a slight positive correlation between production budget and gross indicating that the more money spent on production, the higher gross, total gross, and worldwide gross earned for a given film. Films shown during the summer and holiday season generated the highest average gross, therefore we suggest that films be shown in theaters during those times. Upon further analyses of genres and movie length, we recommend that films shown in the summer should be of the Action and Adventure or Comedy and Musical genres and should have a runtime of at least 120 minutes. We also recommend that films shown during the holiday season should be of the Animation and Comedy or Comedy and Family genres and should have a runtime of at least 120 minutes to generate high average gross. 
+Even though movies were not doing well for 2019, we believe this is reason to investigate further what ways to improve movies to generate high gross. There was a slight positive correlation between production budget and gross indicating that the more money spent on production, the higher gross, total gross, and worldwide gross earned for a given film. Films shown during the summer and holiday season generated the highest average gross, therefore we suggest that films be shown in theaters during those times. Upon further analyses of genres and movie length, we recommend that films shown in the summer should be of the Action and Adventure or Comedy and Musical genres and should have a runtime of at least 120 minutes. We also recommend that films shown during the holiday season should be of the Animation and Comedy or Comedy and Family genres and should have a runtime of at least 120 minutes to generate high average gross. 
 
