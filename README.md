@@ -38,3 +38,4 @@ Even though movies were not doing well for 2019, we believe this is reason to in
 Limitations include data files having null values that lowered the number of observations, weakening the strength of our findings. Another limitation includes the accuracy of the data that was used for analyses, when attempting to merge files we found that their gross values did not match which may be due to data being collected at different times. 
 
 Further analyses should look into how budget and profitability affects gross. Movies released on streaming platforms versus theaters should also be explored as movies on streaming platforms is currently a trend. Examining how long a movie stays in theaters versus gross would also be interesting to explore. Lastly, further analyses should look at how well a movie is doing in theaters in relation to other movies that are out at the same time. 
+
