@@ -10,7 +10,7 @@ In this final project, we have been given the scenario of Microsoft expressing i
 ![Pyramid](/data/Pictures/pyramid.png)
 
 ## Process
-
+ 
 1)	See **BoxOfficeMojo_DataScraping.ipynb**: Here we web scraped Box Office Mojo for movies from all seasons (Fall, Spring, Summer, Winter, and Holiday) for 2018 and 2019 and created necessary Data Frame’s for analyses.
 2)	See **Data_Visualization_years_correlation.ipynb**: We then merged this DataFrame with zipped data files that were provided to us to answer our first two questions.
 3)	See **Data_Visualization_Season_summer**: We found that movies shown during the Summer and Holiday season had the highest average gross
