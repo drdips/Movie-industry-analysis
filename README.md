@@ -1,4 +1,4 @@
-# Module 1 Final Project
+# Module 1 Final Project 
 Team Members: Dipta Roy and Muriel Kosaka 
 
 ## Introduction
