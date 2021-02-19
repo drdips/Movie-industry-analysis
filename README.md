@@ -6,7 +6,7 @@ Team Members: Dipta Roy and Muriel Kosaka
 In this final project, we have been given the scenario of Microsoft expressing interest in creating movies and our team has been tasked to help them better understand the movie industry. By exploring films from 2018 and 2019, we analyzed factors that attributed to its success at the box office. After which we must present our findings and make recommendations to Microsoft to aid in creating profitable films. 
 
 ## Questions that we aim to answer during this project
-
+ 
 ![Pyramid](/data/Pictures/pyramid.png)
 
 ## Process
